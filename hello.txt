@@ -1,0 +1,14 @@
+Attributes
+Recommend Rank University URA Class
+1 excellent 30 Tier III yes N
+2 excellent 20 Tier III no N
+3 excellent 30 Tier II yes P
+4 excellent 20 Tier II yes N
+5 excellent 10 Tier II yes P
+6 excellent 30 Tier I no P
+7 excellent 10 Tier I yes P
+8 normal 30 Tier III yes N
+9 normal 30 Tier II yes N
+10 normal 10 Tier II yes N
+11 normal 20 Tier I no P
+12 normal 10 Tier I no P
